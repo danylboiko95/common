@@ -1,5 +1,5 @@
 {
-  "name": "@danylboiko/common-tickets",
+  "name": "@danocto-tickets/common-tickets",
   "version": "1.0.10",
   "description": "",
   "main": "./build/index.js",
